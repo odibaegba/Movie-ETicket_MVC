@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BC9m5YaO7PWMRBf04SfSa2zh0d0k2yD/yyBU7dqdJ+ALr5sUAvGVL5EvQhAdlACX8VeeYyh+UOodb3srhE/QtA==",
+  "dgSpecHash": "xaPhSKlUeeTg2WOTq8mhIUt7WoVus3/1zODMlZcotyTDOFUtmhJcvejKFAG2KMbg9v5kG9QTPFgkO9HxVCTmLA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\ASP Net Core\\eTickets\\eTickets\\eTickets.csproj",
+  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\ASP Net Core\\Movie-ETicket_MVC\\eTickets\\eTickets\\eTickets.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
